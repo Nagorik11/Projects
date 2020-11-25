@@ -1,0 +1,15 @@
+﻿Ramon,Serra,presupuesto bajo,PC básico,No,No
+Leonardo,Solano,presupuesto alto,PC intermedio,Si,No
+Ariadna,Trillo,presupuesto alto,PC básico,Si,Si
+Hugo,Vives,presupuesto medio,PC intermedio,No,Si
+Lucas,Galvan,presupuesto alto,PC alto,si,Si
+German,Vega,presupuesto medio,PC básico,No,Si
+Daniel,Amaya,presupuesto alto,PC intermedio,Si,Si
+Felix,Vidal,presupuesto medio,PC básico,No,No
+Miguel,Avila,presupuesto alto,PC básico,No,Si
+Teresa,Valenzuela,Presupuesto Medio,PC básico,Si,Si
+Michael,Quiroga,presupuesto medio,PC básico,Si,Si
+Nicole,Davila,presupuesto alto,PC alto,No,Si
+Sarai,Ros,presupuesto alto,PC intermedio,No,No
+Armando,Espino,presupuesto medio,PC básico,Si,Si
+Paola,Peña,presupuesto alto,PC alto,No,No
