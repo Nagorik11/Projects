@@ -1,0 +1,3 @@
+la venta mas grande fue de un total de: 0 y corresponde a  
+El promedio de clientes con presupuesto bajo es de : NaN
+Holaaaa
